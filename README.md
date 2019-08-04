@@ -65,7 +65,7 @@
     链接：https://pan.baidu.com/s/12cwoxVCWces2SCTTpoNTHQ 
     提取码：d533 
  
- ###  pdf书籍截图整理：      
+ ###  pdf书籍截图整理： 有疑问和需要可以qq联系我：1690829596（忘了我是谁） 
  <div>
     <img src="pdf/pdf截图1.png" width="30%" />
     <img src="pdf/pdf截图2.png" width="30%" />
