@@ -82,6 +82,10 @@
     <img src="pdf/pdf截图9.png" width="30%" />
   </div>
 
+## Android 最全的工具类封装.....
+    Android开发人员应该收集以下utils（更新）-> 
+    https://github.com/Blankj/AndroidUtilCode
+
 ## Android开源项目.....
 
 ### android  UI库
@@ -129,9 +133,14 @@
  5.https://github.com/itheima1/Android
 
 
+### 玩android网站
+    https://www.wanandroid.com/article
+
 ### 程序员简历模板：
 1.中文程序员简历模板系列 ->
     https://github.com/geekcompany/ResumeSample
+    
+    
 
 
 
