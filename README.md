@@ -106,6 +106,14 @@
 
 6.适用于Android的圆形ImageView ->
     https://github.com/hdodenhof/CircleImageView
+    
+7. Android 扫描二维码app. 在zxing的基础上优化了算法和相机处理
+    https://github.com/xumingyi/CZXing
+    
+8. 提高 Android UI 开发效率的 UI 库--还不是很完善，缺少每一个UI 模块的小demo，整个demo掺杂在一起，拆分很费劲，可以练手学习， 一个缺少开源博客分块仔细写api说明的框架很难推广出去的，希望这两个库的开发团队能够做的更加高效细致
+    https://github.com/Tencent/QMUI_Android
+    https://github.com/xuexiangjys/XUI 
+          
 
 ### android 架构：
 1.一个整合了大量主流开源项目高度可配置化的Android MVP快速集成框架->
