@@ -118,8 +118,10 @@
 ### android 架构：
 1.一个整合了大量主流开源项目高度可配置化的Android MVP快速集成框架->
     https://github.com/JessYanCoding/MVPArms
-2.Android中的MVVM架构（MVVM + Jetpack的开发实践）->
+2. Android中的MVVM架构（MVVM + Jetpack的开发实践）->
     https://github.com/qingmei2/MVVM-Rhine
+3. 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程编写
+https://github.com/kukyxs/CoroutinesWanAndroid    
 
 ### android  开发指南：
 1.适用于Android的人员开发的广泛开源指南 ->
