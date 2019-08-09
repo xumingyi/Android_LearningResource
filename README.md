@@ -117,6 +117,9 @@
 9. Android 仿微信 QQ 图片裁剪：
     https://github.com/gdutxiaoxu/clipimage    
           
+### android 项目优化：
+1. Android 可能你想要的APK瘦身笔记，多语言,so或者图片资源多的工程瘦身效果明显：
+    https://juejin.im/post/5d4407baf265da03f04caf59          
 
 ### android 架构：
 1.一个整合了大量主流开源项目高度可配置化的Android MVP快速集成框架->
@@ -129,7 +132,7 @@ https://github.com/kukyxs/CoroutinesWanAndroid
 ### android  开发指南：
 1.适用于Android的人员开发的广泛开源指南 ->
     https://github.com/codepath/android_guides 
-    http://guides.codepath.com
+    http://guides.codepath.com    
       
 ### android 开源项目分类汇总：
  1.一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目,让我们的技术跟上国际步伐 ->
