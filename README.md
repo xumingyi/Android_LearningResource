@@ -83,6 +83,7 @@
   </div>
 
 ## Android 最全的工具类封装.....
+
     Android开发人员应该收集以下utils（更新）-> 
     https://github.com/Blankj/AndroidUtilCode
 
@@ -118,18 +119,22 @@
     https://github.com/gdutxiaoxu/clipimage    
           
 ### android 项目优化：
+
 1. Android 可能你想要的APK瘦身笔记，多语言,so或者图片资源多的工程瘦身效果明显：
     https://juejin.im/post/5d4407baf265da03f04caf59          
 
 ### android 架构：
 1.一个整合了大量主流开源项目高度可配置化的Android MVP快速集成框架->
     https://github.com/JessYanCoding/MVPArms
+    
 2. Android中的MVVM架构（MVVM + Jetpack的开发实践）->
     https://github.com/qingmei2/MVVM-Rhine
+    
 3. 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程编写
 https://github.com/kukyxs/CoroutinesWanAndroid    
 
 ### android  开发指南：
+
 1.适用于Android的人员开发的广泛开源指南 ->
     https://github.com/codepath/android_guides 
     http://guides.codepath.com    
@@ -140,6 +145,7 @@ https://github.com/kukyxs/CoroutinesWanAndroid
  
  2.国内优秀的Android学习资源:
     https://github.com/hehonghui/android-tech-frontier/tree/master/the-bad-guys
+    
  3.Android的开源项目，开源项目有详细资料和配套视频 ->
     https://github.com/Trinea/android-open-project
  
