@@ -120,12 +120,16 @@
           
 ### android 项目优化：
 
-1. Android 可能你想要的APK瘦身笔记，多语言,so或者图片资源多的工程瘦身效果明显：
+1. Android APK瘦身笔记，多语言,so或者图片资源多的工程瘦身效果明显：
     https://juejin.im/post/5d4407baf265da03f04caf59          
-2. Android 启动时间优化，不错的文章，亲测有效，简单总结release版本包较少2秒左右，其次异步初始化优先让UI起来，使用工具间定位耗时的主要任务，然后有针对性的修改
+2. Android 启动时间优化：不错的文章，亲测有效，简单总结release版本包较少2秒左右，其次异步初始化优先让UI起来，使用工具间定位耗时的主要任务，然后有针对性的修改
    https://www.jianshu.com/p/4f10c9a10ac9
    https://zhuanlan.zhihu.com/p/23442027
    https://juejin.im/post/5d1bb7c6f265da1ba84aab1c#heading-2
+3. Android App内存优化策略：
+   3.1美团外卖Android Crash治理之路：https://juejin.im/post/5b231fc451882574866d4519
+   3.2 LeakCanary: 让内存泄露无所遁形：https://www.liaohuqiu.net/cn/posts/leak-canary/
+   3.3 Android项目背景和bannerd等往往占用很大的内存：Glide 这样用，更省内存！！！                  https://segmentfault.com/a/1190000011423889
    
 ### android 架构：
 1.一个整合了大量主流开源项目高度可配置化的Android MVP快速集成框架->
