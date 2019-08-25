@@ -122,7 +122,11 @@
 
 1. Android 可能你想要的APK瘦身笔记，多语言,so或者图片资源多的工程瘦身效果明显：
     https://juejin.im/post/5d4407baf265da03f04caf59          
-
+2. Android 启动时间优化，不错的文章，亲测有效，简单总结release版本包较少2秒左右，其次异步初始化优先让UI起来，使用工具间定位耗时的主要任务，然后有针对性的修改
+   https://www.jianshu.com/p/4f10c9a10ac9
+   https://zhuanlan.zhihu.com/p/23442027
+   https://juejin.im/post/5d1bb7c6f265da1ba84aab1c#heading-2
+   
 ### android 架构：
 1.一个整合了大量主流开源项目高度可配置化的Android MVP快速集成框架->
     https://github.com/JessYanCoding/MVPArms
